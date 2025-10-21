@@ -28,14 +28,14 @@
 - 🎵 Nghe nhạc: Lofi, Ballad
 - 📚 Đọc sách: Kinh doanh, Đầu tư, Kỹ năng sống  
 - ⚽ Thể thao: Cầu lông
-- 🎯 Khác: Tìm hiểu mạch điện, đi dạo, xem phim
+- 🎯 Khác: Đi dạo, Xem phim
 
 ## 💭 Quote yêu thích
 > "Nếu bạn không xây dựng ước mơ của mình, người khác sẽ thuê bạn xây dựng ước mơ của họ."
 
 ## 📈 GitHub Stats
 <!-- Các bạn có thể thêm GitHub stats sau khi học xong -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=buivuvietanh2006-tech&show_icons=true&theme=radical)
 
 ---
 
